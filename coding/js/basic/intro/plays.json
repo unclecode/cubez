@@ -1,0 +1,126 @@
+{
+    "hello.kpg": {
+        "changeState": "",
+        "name": "hello.kpg",
+        "files": {
+            "index.html": {
+                "type": "added",
+                "fileName": "index.html",
+                "locator": false,
+                "editor": true,
+                "src": "git",
+                "fileType": "code",
+                "path": "index.html",
+                "uploaded": false,
+                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title></title>\n</head>\n<body>\n    <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    <audio controls>\n        <source src=\"voice.mp3\" type=\"audio/mpeg\">\n    </audio>\n</body>\n</html>",
+                "url": "",
+                "changeState": "",
+                "sha": "ebdee2a14c357c622d5759a822b72c4ddbe74558",
+                "changeStatus": ""
+            },
+            "apple.jpg": {
+                "type": "added",
+                "fileName": "apple.jpg",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "image",
+                "path": "apple.jpg",
+                "uploaded": false,
+                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    </body>\n</html>",
+                "url": "https://image.shutterstock.com/image-vector/vector-illustration-apple-260nw-505576972.jpg",
+                "changeState": "modified"
+            },
+            "voice.mp3": {
+                "type": "added",
+                "fileName": "voice.mp3",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "audio",
+                "path": "voice.mp3",
+                "uploaded": false,
+                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n        <audio src=\"voice.mp3\"></audio>\n    </body>\n</html>",
+                "url": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3",
+                "changeState": "modified"
+            },
+            "intro.mp4": {
+                "type": "added",
+                "fileName": "intro.mp4",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "video",
+                "path": "intro.mp4",
+                "uploaded": false,
+                "content": "",
+                "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+                "changeState": "added"
+            },
+            "readme.md": {
+                "type": "added",
+                "fileName": "readme.md",
+                "locator": false,
+                "editor": true,
+                "src": "git",
+                "fileType": "code",
+                "path": "readme.md",
+                "uploaded": false,
+                "content": "## Hello\n\nThis is a course about `apple.jpg`\n",
+                "url": "",
+                "changeState": "",
+                "sha": "44414573286b5a81a7fc0ba77cd46195f024a458",
+                "changeStatus": ""
+            },
+            "test.jpg": {
+                "type": "added",
+                "fileName": "test.jpg",
+                "locator": true,
+                "editor": true,
+                "src": "git",
+                "fileType": "image",
+                "path": "test.jpg",
+                "fileObject": {},
+                "content": "test.jpg",
+                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test.jpg?token=AC7KJ7YSG5TU4X5ZNR4RBZ25I3LRK",
+                "pushResult": {
+                    "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354"
+                },
+                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
+                "changeState": "added"
+            },
+            "test1.jpg": {
+                "type": "added",
+                "fileName": "test1.jpg",
+                "locator": true,
+                "editor": true,
+                "src": "git",
+                "fileType": "image",
+                "path": "test1.jpg",
+                "fileObject": {},
+                "content": "test1.jpg",
+                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test1.jpg",
+                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
+                "changeState": "added"
+            },
+            "app.js": {
+                "type": "added",
+                "fileName": "app.js",
+                "locator": false,
+                "editor": true,
+                "src": "git",
+                "fileType": "code",
+                "path": "app.js",
+                "uploaded": false,
+                "content": "/* app.js Ì†æÌ¥ìÌ†ΩÌ±ç */\nlet s = 3;\n\n// index.html is gppn\n",
+                "url": "",
+                "changeState": "",
+                "changeStatus": "",
+                "oldPath": "app2.js",
+                "sha": "3c47c0bcac1ef6848628a6cb199d0e8ad623d30c"
+            }
+        },
+        "changesLog": {},
+        "pushed": true
+    }
+}
