@@ -89,20 +89,6 @@
                 "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
                 "changeState": "added"
             },
-            "test1.jpg": {
-                "type": "added",
-                "fileName": "test1.jpg",
-                "locator": true,
-                "editor": true,
-                "src": "git",
-                "fileType": "image",
-                "path": "test1.jpg",
-                "fileObject": {},
-                "content": "test1.jpg",
-                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test1.jpg",
-                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
-                "changeState": "added"
-            },
             "app.js": {
                 "type": "added",
                 "fileName": "app.js",
