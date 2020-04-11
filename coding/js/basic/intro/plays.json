@@ -98,9 +98,9 @@
                 "path": "testz.jpg",
                 "fileObject": {},
                 "content": "test.jpg",
-                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test.jpg?token=AC7KJ7YSG5TU4X5ZNR4RBZ25I3LRK",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/coding/js/basic/intro/hello.kpg/test.jpg",
                 "pushResult": {
-                    "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354"
+                    "sha": "3a954fd39d87b1f3d2f9a2d0fa68a2502601fc7c"
                 },
                 "changeState": "added",
                 "oldPath": "test.jpg"
