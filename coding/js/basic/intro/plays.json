@@ -12,7 +12,7 @@
                 "fileType": "code",
                 "path": "index.html",
                 "uploaded": false,
-                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title></title>\n</head>\n<body>\n    <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    <audio controls>\n        <source src=\"voice.mp3\" type=\"audio/mpeg\">\n    </audio>\n</body>\n</html>",
+                "content": "<!-- index.html ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ -->\n<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title></title>\n</head>\n<body>\n    <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    <audio controls>\n        <source src=\"voice.mp3\" type=\"audio/mpeg\">\n    </audio>\n</body>\n</html>",
                 "url": "",
                 "changeState": "",
                 "sha": "ebdee2a14c357c622d5759a822b72c4ddbe74558",
@@ -27,7 +27,7 @@
                 "fileType": "image",
                 "path": "apple.jpg",
                 "uploaded": false,
-                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    </body>\n</html>",
+                "content": "<!-- index.html ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    </body>\n</html>",
                 "url": "https://image.shutterstock.com/image-vector/vector-illustration-apple-260nw-505576972.jpg",
                 "changeState": "modified"
             },
@@ -40,7 +40,7 @@
                 "fileType": "audio",
                 "path": "voice.mp3",
                 "uploaded": false,
-                "content": "<!-- index.html Ì†æÌ¥ìÌ†ΩÌ±ç -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n        <audio src=\"voice.mp3\"></audio>\n    </body>\n</html>",
+                "content": "<!-- index.html ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n        <audio src=\"voice.mp3\"></audio>\n    </body>\n</html>",
                 "url": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3",
                 "changeState": "modified"
             },
@@ -82,11 +82,11 @@
                 "path": "test.jpg",
                 "fileObject": {},
                 "content": "test.jpg",
-                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test.jpg?token=AC7KJ7YSG5TU4X5ZNR4RBZ25I3LRK",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/master/coding/js/basic/intro/hello.kpg/test.jpg",
                 "pushResult": {
-                    "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354"
+                    "sha": "3a954fd39d87b1f3d2f9a2d0fa68a2502601fc7c"
                 },
-                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
+                "sha": "3a954fd39d87b1f3d2f9a2d0fa68a2502601fc7c",
                 "changeState": "added"
             },
             "test1.jpg": {
@@ -99,8 +99,8 @@
                 "path": "test1.jpg",
                 "fileObject": {},
                 "content": "test1.jpg",
-                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test1.jpg",
-                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/master/coding/js/basic/intro/hello.kpg/test.jpg",
+                "sha": "3a954fd39d87b1f3d2f9a2d0fa68a2502601fc7c",
                 "changeState": "added"
             },
             "app.js": {
@@ -112,7 +112,7 @@
                 "fileType": "code",
                 "path": "app.js",
                 "uploaded": false,
-                "content": "/* app.js Ì†æÌ¥ìÌ†ΩÌ±ç */\nlet s = 3;\n\n// index.html is gppn\n",
+                "content": "/* app.js ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ */\nlet s = 3;\n\n// index.html is gppn\n",
                 "url": "",
                 "changeState": "",
                 "changeStatus": "",
