@@ -72,23 +72,6 @@
                 "sha": "44414573286b5a81a7fc0ba77cd46195f024a458",
                 "changeStatus": ""
             },
-            "test.jpg": {
-                "type": "added",
-                "fileName": "test.jpg",
-                "locator": true,
-                "editor": true,
-                "src": "git",
-                "fileType": "image",
-                "path": "test.jpg",
-                "fileObject": {},
-                "content": "test.jpg",
-                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test.jpg?token=AC7KJ7YSG5TU4X5ZNR4RBZ25I3LRK",
-                "pushResult": {
-                    "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354"
-                },
-                "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354",
-                "changeState": "added"
-            },
             "app.js": {
                 "type": "added",
                 "fileName": "app.js",
@@ -104,6 +87,23 @@
                 "changeStatus": "",
                 "oldPath": "app2.js",
                 "sha": "3c47c0bcac1ef6848628a6cb199d0e8ad623d30c"
+            },
+            "testz.jpg": {
+                "type": "added",
+                "fileName": "testz.jpg",
+                "locator": true,
+                "editor": true,
+                "src": "git",
+                "fileType": "image",
+                "path": "testz.jpg",
+                "fileObject": {},
+                "content": "test.jpg",
+                "url": "https://raw.githubusercontent.com/unclecode/kubeJSBeginner/master/hello.kpg/test.jpg?token=AC7KJ7YSG5TU4X5ZNR4RBZ25I3LRK",
+                "pushResult": {
+                    "sha": "fcca6437efca081cd8fa86a2abc4849afd97b354"
+                },
+                "changeState": "added",
+                "oldPath": "test.jpg"
             }
         },
         "changesLog": {},
