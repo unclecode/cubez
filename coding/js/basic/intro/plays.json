@@ -4,17 +4,17 @@
         "name": "hello.kpg",
         "files": {
             "index.html": {
-                "type": "added",
-                "fileName": "index.html",
-                "locator": false,
+                "content": "<!-- index.html ������������ -->\n<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Test123</title>\n</head>\n<body>\n    <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    <audio controls>\n        <source src=\"voice.mp3\" type=\"audio/mpeg\">\n    </audio>\n</body>\n</html>",
+                "changeState": "",
                 "editor": true,
-                "src": "git",
+                "fileName": "index.html",
                 "fileType": "code",
                 "path": "index.html",
-                "uploaded": false,
-                "content": "<!-- index.html ������������ -->\n<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Test123</title>\n</head>\n<body>\n    <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n    <audio controls>\n        <source src=\"voice.mp3\" type=\"audio/mpeg\">\n    </audio>\n</body>\n</html>",
+                "src": "git",
                 "url": "",
-                "changeState": "",
+                "type": "added",
+                "locator": false,
+                "uploaded": false,
                 "sha": "1fef1191d0655a920db6f344ecdae31732cfda03",
                 "changeStatus": ""
             },
@@ -91,19 +91,6 @@
                 },
                 "changeState": "modified",
                 "oldPath": "test.jpg"
-            },
-            "orange.jpg": {
-                "type": "added",
-                "fileName": "orange.jpg",
-                "locator": true,
-                "editor": false,
-                "src": "",
-                "fileType": "image",
-                "path": "orange.jpg",
-                "uploaded": false,
-                "content": "",
-                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
-                "changeState": "added"
             }
         },
         "changesLog": {},
