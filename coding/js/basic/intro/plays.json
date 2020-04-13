@@ -42,7 +42,7 @@
                 "uploaded": false,
                 "content": "<!-- index.html ������������ -->\n<!DOCTYPE html>\n<html>\n    <head>\n        <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n        <title></title>\n    </head>\n    <body>\n        <img id=\"apple\" src=\"apple.jpg\" alt=\"\" />\n        <audio src=\"voice.mp3\"></audio>\n    </body>\n</html>",
                 "url": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3",
-                "changeState": "modified"
+                "changeState": "removed"
             },
             "intro.mp4": {
                 "type": "added",
@@ -97,12 +97,12 @@
                 "fileType": "image",
                 "path": "testz.jpg",
                 "fileObject": {},
-                "content": "test.jpg",
+                "content": "https://raw.githubusercontent.com/unclecode/cubez/student/coding/js/basic/intro/hello.kpg/test.jpg",
                 "url": "https://raw.githubusercontent.com/unclecode/cubez/student/coding/js/basic/intro/hello.kpg/test.jpg",
                 "pushResult": {
                     "sha": "3a954fd39d87b1f3d2f9a2d0fa68a2502601fc7c"
                 },
-                "changeState": "added",
+                "changeState": "modified",
                 "oldPath": "test.jpg"
             }
         },
