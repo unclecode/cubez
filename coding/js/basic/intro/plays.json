@@ -91,6 +91,19 @@
                 },
                 "changeState": "modified",
                 "oldPath": "test.jpg"
+            },
+            "orange.jpg": {
+                "type": "added",
+                "fileName": "orange.jpg",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "image",
+                "path": "orange.jpg",
+                "uploaded": false,
+                "content": "",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+                "changeState": "added"
             }
         },
         "changesLog": {},
