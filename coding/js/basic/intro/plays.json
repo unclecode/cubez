@@ -44,19 +44,6 @@
                 "url": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3",
                 "changeState": "removed"
             },
-            "intro.mp4": {
-                "type": "added",
-                "fileName": "intro.mp4",
-                "locator": true,
-                "editor": false,
-                "src": "",
-                "fileType": "video",
-                "path": "intro.mp4",
-                "uploaded": false,
-                "content": "",
-                "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-                "changeState": "added"
-            },
             "readme.md": {
                 "type": "added",
                 "fileName": "readme.md",
@@ -104,6 +91,19 @@
                 },
                 "changeState": "modified",
                 "oldPath": "test.jpg"
+            },
+            "orange.jpg": {
+                "type": "added",
+                "fileName": "orange.jpg",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "image",
+                "path": "orange.jpg",
+                "uploaded": false,
+                "content": "",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png",
+                "changeState": "added"
             }
         },
         "changesLog": {},
