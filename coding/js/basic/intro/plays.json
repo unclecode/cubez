@@ -80,6 +80,48 @@
                 "changeState": "",
                 "oldPath": "test.jpg",
                 "changeStatus": ""
+            },
+            "kidocode.mp4": {
+                "type": "added",
+                "fileName": "kidocode.mp4",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "video",
+                "path": "kidocode.mp4",
+                "uploaded": false,
+                "content": "",
+                "url": "https://kidocode-asset.s3-ap-southeast-1.amazonaws.com/trial/videos/Kbox+-+Ver+3.mp4",
+                "changeState": "",
+                "changeStatus": ""
+            },
+            "kidocode.yte": {
+                "type": "added",
+                "fileName": "kidocode.yte",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "video",
+                "path": "kidocode.yte",
+                "uploaded": false,
+                "content": "",
+                "url": "https://www.youtube.com/embed/kTcznLp6oBI",
+                "changeState": "",
+                "changeStatus": ""
+            },
+            "voice.mp3": {
+                "type": "added",
+                "fileName": "voice.mp3",
+                "locator": true,
+                "editor": false,
+                "src": "",
+                "fileType": "audio",
+                "path": "voice.mp3",
+                "uploaded": false,
+                "content": "",
+                "url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3",
+                "changeState": "",
+                "changeStatus": ""
             }
         },
         "changesLog": {},
