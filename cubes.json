@@ -138,7 +138,21 @@
         }
     ],
     "~/math": [],
-    "~/data/intro": [],
+    "~/data/intro": [
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~/data/intro/test.code",
+            "name": "test.code",
+            "caption": "test.code",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "content",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
+        }
+    ],
     "~/data": [
         {
             "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
@@ -158,6 +172,19 @@
             "path": "~/data/inter",
             "name": "inter",
             "caption": "inter",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
+        },
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~/data/intro",
+            "name": "intro",
+            "caption": "intro",
             "desc": "Next awesome folder in the multiverse",
             "type": "folder",
             "tags": [
