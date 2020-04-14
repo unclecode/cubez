@@ -65,7 +65,7 @@
         "files": {
             "index.html": {
                 "content": "<p>Hello World</p>",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "index.html",
@@ -77,7 +77,7 @@
             },
             "app.css": {
                 "content": "body {}",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.css",
@@ -89,7 +89,7 @@
             },
             "app.js": {
                 "content": "//console.log('hello world')",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.js",
@@ -101,7 +101,7 @@
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
@@ -120,7 +120,7 @@
         "name": "test.kpg",
         "caption": "test.kpg",
         "changesLog": {},
-        "changeState": "",
+        "changeState": "removed",
         "pushed": true
     },
     "test2.kpg": {
@@ -419,7 +419,7 @@
         "files": {
             "index.html": {
                 "content": "<p>Hello World</p>",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "index.html",
@@ -431,7 +431,7 @@
             },
             "app.css": {
                 "content": "body {}",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.css",
@@ -443,7 +443,7 @@
             },
             "app.js": {
                 "content": "//console.log('hello world')",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.js",
@@ -455,7 +455,7 @@
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "",
+                "changeState": "removed",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
@@ -474,7 +474,7 @@
         "name": "test6.kpg",
         "caption": "test6.kpg",
         "changesLog": {},
-        "changeState": "",
+        "changeState": "removed",
         "pushed": true
     },
     "test7.kpg": {
