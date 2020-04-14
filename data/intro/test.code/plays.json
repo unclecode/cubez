@@ -139,13 +139,15 @@
             },
             "app.css": {
                 "content": "body {}",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.css",
                 "path": "app.css",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "2d91681f81650e8547ad94d5d21626e21474aae0",
+                "changeStatus": ""
             },
             "app.js": {
                 "content": "//console.log('hello world')",
