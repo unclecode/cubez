@@ -328,18 +328,6 @@
                 "src": "git",
                 "sha": "9dc752d7e03930467d4ea4aa2feb2218b72bf05a",
                 "changeStatus": ""
-            },
-            "readme.md": {
-                "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "",
-                "editor": true,
-                "fileType": "code",
-                "fileName": "readme.md",
-                "path": "readme.md",
-                "url": "",
-                "src": "git",
-                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
-                "changeStatus": ""
             }
         },
         "hash": "",
