@@ -1,108 +1,144 @@
 {
-    "~":[
+    "~": [
         {
-            "emoji": "ðŸ’»",
+            "emoji": "í ½í²»",
             "path": "~/coding",
             "name": "coding",
             "caption": "Coding",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
             "image": "",
-            "tags": ["code", "js", "fun"],
+            "tags": [
+                "code",
+                "js",
+                "fun"
+            ],
             "links": {},
             "data": {}
         },
         {
-            "emoji": "ðŸ§®",
+            "emoji": "í ¾í·®",
             "path": "~/math",
             "name": "math",
             "caption": "Math",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
-            "tags": ["math", "geometry", "fun"],
+            "tags": [
+                "math",
+                "geometry",
+                "fun"
+            ],
             "links": {},
             "data": {}
         }
     ],
-    "~/coding":[
+    "~/coding": [
         {
-            "emoji": "ðŸ§¡",
+            "emoji": "í ¾í·¡",
             "path": "~/coding/js",
             "name": "js",
             "caption": "Javascript",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
-            "tags": ["coding", "js"],
+            "tags": [
+                "coding",
+                "js"
+            ],
             "links": {},
             "data": {}
         }
     ],
-    "~/coding/js":[
+    "~/coding/js": [
         {
-            "emoji": "ðŸ§¡",
+            "emoji": "í ¾í·¡",
             "path": "~/coding/js/basic",
             "name": "basic",
             "caption": "Javascript Basic",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
-            "tags": ["coding", "js"],
+            "tags": [
+                "coding",
+                "js"
+            ],
             "links": {},
             "data": {}
         },
         {
-            "emoji": "ðŸ§¡",
+            "emoji": "í ¾í·¡",
             "path": "~/coding/js/intermediate",
             "name": "intermediate",
             "caption": "Javascript Intermediate",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
-            "tags": ["coding", "js"],
+            "tags": [
+                "coding",
+                "js"
+            ],
             "links": {},
             "data": {}
         },
         {
-            "emoji": "ðŸ§¡",
+            "emoji": "í ¾í·¡",
             "path": "~/coding/js/advanced",
             "name": "advanced",
             "caption": "Javascript Advanced",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "folder",
-            "tags": ["coding", "js"],
+            "tags": [
+                "coding",
+                "js"
+            ],
             "links": {},
             "data": {}
         }
     ],
-    "~/coding/js/basic":[
+    "~/coding/js/basic": [
         {
-            "emoji": "ðŸ¤",
+            "emoji": "í ¾í´",
             "path": "~/coding/js/basic/intro",
             "name": "js_basic_intro",
             "caption": "Introduction to Javascript",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "content",
-            "tags": ["coding", "js", "intro"],
+            "tags": [
+                "coding",
+                "js",
+                "intro"
+            ],
             "links": {},
             "data": {}
         },
         {
-            "emoji": "ðŸ§¡",
+            "emoji": "í ¾í·¡",
             "path": "~/coding/js/basic/variables",
             "name": "js_basic_var",
             "caption": "Variables in JS",
-            "desc":
-                "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
+            "desc": "This is a sample description for a repo âœŒï¸and that can be a lot to be a lot again",
             "type": "content",
-            "tags": ["coding", "js", "intro"],
+            "tags": [
+                "coding",
+                "js",
+                "intro"
+            ],
             "links": {},
             "data": {}
         }
     ],
-    "~/math":[]
+    "~/math": [],
+    "~data/intro": [],
+    "~data": [
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~data/intro",
+            "name": "intro",
+            "caption": "intro",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
+        }
+    ]
 }
