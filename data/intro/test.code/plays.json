@@ -3,13 +3,15 @@
         "files": {
             "index.html": {
                 "content": "<p>Hello Worldzzzz</p>",
-                "changeState": "modified",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "index.html",
                 "path": "index.html",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "188408dc6e996e2925342c431c49ef7e9e6f5f71",
+                "changeStatus": ""
             },
             "app.css": {
                 "content": "body {}",
