@@ -295,13 +295,15 @@
         "files": {
             "index.html": {
                 "content": "<p>Hello World123</p>",
-                "changeState": "modified",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "index.html",
                 "path": "index.html",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "f90699d37a6447de05462093182257ab0afd1ff4",
+                "changeStatus": ""
             },
             "app.css": {
                 "content": "body {}",
@@ -348,7 +350,7 @@
         "name": "test4.kpg",
         "caption": "test4.kpg",
         "changesLog": {},
-        "changeState": "added",
+        "changeState": "",
         "pushed": true
     }
 }
