@@ -163,13 +163,15 @@
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
                 "path": "readme.md",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
+                "changeStatus": ""
             }
         },
         "hash": "",
@@ -179,14 +181,8 @@
         },
         "name": "test2.kpg",
         "caption": "test2.kpg",
-        "changesLog": {
-            "added": {
-                "index.html": 1,
-                "app.css": 1,
-                "app.js": 1,
-                "readme.md": 1
-            }
-        },
-        "changeState": "added"
+        "changesLog": {},
+        "changeState": "",
+        "pushed": true
     }
 }
