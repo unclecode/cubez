@@ -152,6 +152,20 @@
             ],
             "links": {},
             "data": {}
+        },
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~/data/inter",
+            "name": "inter",
+            "caption": "inter",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
         }
-    ]
+    ],
+    "~/data/inter": []
 }
