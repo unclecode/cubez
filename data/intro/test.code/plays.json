@@ -369,33 +369,39 @@
             },
             "app.css": {
                 "content": "body {}",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.css",
                 "path": "app.css",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "2d91681f81650e8547ad94d5d21626e21474aae0",
+                "changeStatus": ""
             },
             "app.js": {
                 "content": "//console.log('hello world')",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.js",
                 "path": "app.js",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "9dc752d7e03930467d4ea4aa2feb2218b72bf05a",
+                "changeStatus": ""
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
                 "path": "readme.md",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
+                "changeStatus": ""
             }
         },
         "hash": "",
@@ -405,14 +411,8 @@
         },
         "name": "test5.kpg",
         "caption": "test5.kpg",
-        "changesLog": {
-            "added": {
-                "index.html": 1,
-                "app.css": 1,
-                "app.js": 1,
-                "readme.md": 1
-            }
-        },
-        "changeState": "added"
+        "changesLog": {},
+        "changeState": "",
+        "pushed": true
     }
 }
