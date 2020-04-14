@@ -60,5 +60,67 @@
         "changesLog": {},
         "changeState": "",
         "pushed": true
+    },
+    "test.kpg": {
+        "files": {
+            "index.html": {
+                "content": "<p>Hello World</p>",
+                "changeState": "",
+                "editor": true,
+                "fileType": "code",
+                "fileName": "index.html",
+                "path": "index.html",
+                "url": "",
+                "src": "git",
+                "sha": "92f9a3de160337a5b33a4a04b06fb339f56d45ae",
+                "changeStatus": ""
+            },
+            "app.css": {
+                "content": "body {}",
+                "changeState": "",
+                "editor": true,
+                "fileType": "code",
+                "fileName": "app.css",
+                "path": "app.css",
+                "url": "",
+                "src": "git",
+                "sha": "2d91681f81650e8547ad94d5d21626e21474aae0",
+                "changeStatus": ""
+            },
+            "app.js": {
+                "content": "//console.log('hello world')",
+                "changeState": "",
+                "editor": true,
+                "fileType": "code",
+                "fileName": "app.js",
+                "path": "app.js",
+                "url": "",
+                "src": "git",
+                "sha": "9dc752d7e03930467d4ea4aa2feb2218b72bf05a",
+                "changeStatus": ""
+            },
+            "readme.md": {
+                "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
+                "changeState": "",
+                "editor": true,
+                "fileType": "code",
+                "fileName": "readme.md",
+                "path": "readme.md",
+                "url": "",
+                "src": "git",
+                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
+                "changeStatus": ""
+            }
+        },
+        "hash": "",
+        "lins": {
+            "scripts": [],
+            "css": []
+        },
+        "name": "test.kpg",
+        "caption": "test.kpg",
+        "changesLog": {},
+        "changeState": "",
+        "pushed": true
     }
 }
