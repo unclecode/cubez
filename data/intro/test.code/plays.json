@@ -201,33 +201,50 @@
             },
             "app.css": {
                 "content": "body {}",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.css",
                 "path": "app.css",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "2d91681f81650e8547ad94d5d21626e21474aae0",
+                "changeStatus": ""
             },
             "app.js": {
                 "content": "//console.log('hello world')",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.js",
                 "path": "app.js",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "9dc752d7e03930467d4ea4aa2feb2218b72bf05a",
+                "changeStatus": ""
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
                 "path": "readme.md",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
+                "changeStatus": ""
+            },
+            "now.json": {
+                "changeState": "",
+                "content": "{\"version\":2,\"name\":\"test3.kpg-kstudio\",\"builds\":[{\"src\":\"*.html\",\"use\":\"@now/static\"},{\"src\":\"*.css\",\"use\":\"@now/static\"},{\"src\":\"*.js\",\"use\":\"@now/static\"},{\"src\":\"*.md\",\"use\":\"@now/md\"}]}",
+                "editor": true,
+                "fileName": "now.json",
+                "fileType": "code",
+                "path": "now.json",
+                "sha": "5a4e1fba0e91d59fffbc584f6fe806f2238a11ac",
+                "src": "git",
+                "url": ""
             }
         },
         "hash": "",
@@ -237,14 +254,41 @@
         },
         "name": "test3.kpg",
         "caption": "test3.kpg",
-        "changesLog": {
-            "added": {
-                "index.html": 1,
-                "app.css": 1,
-                "app.js": 1,
-                "readme.md": 1
-            }
+        "changesLog": {},
+        "changeState": "",
+        "publish": {
+            "now": {
+                "url": "https://test3.kpg-kstudio.unlcecode.now.sh"
+            },
+            "repo": {
+                "id": 255671788,
+                "name": "test3.kpg-kstudio",
+                "node_id": "MDEwOlJlcG9zaXRvcnkyNTU2NzE3ODg="
+            },
+            "files": {}
         },
-        "changeState": "added"
+        "nowJson": {
+            "version": 2,
+            "name": "test3.kpg-kstudio",
+            "builds": [
+                {
+                    "src": "*.html",
+                    "use": "@now/static"
+                },
+                {
+                    "src": "*.css",
+                    "use": "@now/static"
+                },
+                {
+                    "src": "*.js",
+                    "use": "@now/static"
+                },
+                {
+                    "src": "*.md",
+                    "use": "@now/md"
+                }
+            ]
+        },
+        "pushed": true
     }
 }
