@@ -30,6 +30,19 @@
             ],
             "links": {},
             "data": {}
+        },
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~data",
+            "name": "~data",
+            "caption": "~data",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
         }
     ],
     "~/coding": [
@@ -124,5 +137,21 @@
             "data": {}
         }
     ],
-    "~/math": []
+    "~/math": [],
+    "~/data/intro": [],
+    "~/data": [
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~data/intro",
+            "name": "intro",
+            "caption": "intro",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
+        }
+    ]
 }
