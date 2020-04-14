@@ -27,23 +27,27 @@
             },
             "app.js": {
                 "content": "console.log('hello world')",
-                "changeState": "modified",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "app.js",
                 "path": "app.js",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "c9cd42ff26372a5fadc90b3367ce2a8899e89bf1",
+                "changeStatus": ""
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
-                "changeState": "added",
+                "changeState": "",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "readme.md",
                 "path": "readme.md",
                 "url": "",
-                "src": "git"
+                "src": "git",
+                "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
+                "changeStatus": ""
             }
         },
         "hash": "",
@@ -53,18 +57,8 @@
         },
         "name": "hello.kpg",
         "caption": "hello.kpg",
-        "changesLog": {
-            "added": {
-                "index.html": 1,
-                "app.css": 1,
-                "app.js": 1,
-                "readme.md": 1
-            },
-            "edited": {
-                "index.html": 4,
-                "app.js": 1
-            }
-        },
-        "changeState": "added"
+        "changesLog": {},
+        "changeState": "",
+        "pushed": true
     }
 }
