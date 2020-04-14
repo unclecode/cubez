@@ -192,7 +192,35 @@
             ],
             "links": {},
             "data": {}
+        },
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~/data/intern",
+            "name": "intern",
+            "caption": "intern",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "folder",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
         }
     ],
-    "~/data/inter": []
+    "~/data/inter": [],
+    "~/data/intern": [
+        {
+            "emoji": "í ¾í·¡",
+            "path": "~/data/intern/test.code",
+            "name": "test.code",
+            "caption": "test.code",
+            "desc": "Next awesome folder in the multiverse",
+            "type": "content",
+            "tags": [
+                ""
+            ],
+            "links": {},
+            "data": {}
+        }
+    ]
 }
