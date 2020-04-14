@@ -1,7 +1,7 @@
 {
     "~": [
         {
-            "emoji": "í ½í²»",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding",
             "name": "coding",
             "caption": "Coding",
@@ -17,7 +17,7 @@
             "data": {}
         },
         {
-            "emoji": "í ¾í·®",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/math",
             "name": "math",
             "caption": "Math",
@@ -34,7 +34,7 @@
     ],
     "~/coding": [
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js",
             "name": "js",
             "caption": "Javascript",
@@ -50,7 +50,7 @@
     ],
     "~/coding/js": [
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js/basic",
             "name": "basic",
             "caption": "Javascript Basic",
@@ -64,7 +64,7 @@
             "data": {}
         },
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js/intermediate",
             "name": "intermediate",
             "caption": "Javascript Intermediate",
@@ -78,7 +78,7 @@
             "data": {}
         },
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js/advanced",
             "name": "advanced",
             "caption": "Javascript Advanced",
@@ -94,7 +94,7 @@
     ],
     "~/coding/js/basic": [
         {
-            "emoji": "í ¾í´",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js/basic/intro",
             "name": "js_basic_intro",
             "caption": "Introduction to Javascript",
@@ -109,7 +109,7 @@
             "data": {}
         },
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~/coding/js/basic/variables",
             "name": "js_basic_var",
             "caption": "Variables in JS",
@@ -125,10 +125,10 @@
         }
     ],
     "~/math": [],
-    "~data/intro": [],
-    "~data": [
+    "~/data/intro": [],
+    "~/data": [
         {
-            "emoji": "í ¾í·¡",
+            "emoji": "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½",
             "path": "~data/intro",
             "name": "intro",
             "caption": "intro",
