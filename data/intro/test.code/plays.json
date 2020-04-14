@@ -348,7 +348,7 @@
         "name": "test4.kpg",
         "caption": "test4.kpg",
         "changesLog": {},
-        "changeState": "",
+        "changeState": "added",
         "pushed": true
     }
 }
