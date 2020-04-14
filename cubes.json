@@ -124,21 +124,5 @@
             "data": {}
         }
     ],
-    "~/math": [],
-    "~/data/intro": [],
-    "~/data": [
-        {
-            "emoji": "������",
-            "path": "~data/intro",
-            "name": "intro",
-            "caption": "intro",
-            "desc": "Next awesome folder in the multiverse",
-            "type": "folder",
-            "tags": [
-                ""
-            ],
-            "links": {},
-            "data": {}
-        }
-    ]
+    "~/math": []
 }
