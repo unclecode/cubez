@@ -2,7 +2,7 @@
     "test1.kpg": {
         "files": {
             "index.html": {
-                "content": "<p>Hello World 123</p>",
+                "content": "<p>Hello World 123</p>\n\n<div id=\"awesome\">\n    write some text\n    \n    write some text\n</div>\n\n",
                 "changeState": "",
                 "editor": true,
                 "fileType": "code",
@@ -10,7 +10,7 @@
                 "path": "index.html",
                 "url": "",
                 "src": "git",
-                "sha": "6fa312419b5e96135e1da933fc87f4df1d70c839",
+                "sha": "df9cbbdde750213465d45319df798b4cc9d9dbda",
                 "changeStatus": ""
             },
             "app.css": {
