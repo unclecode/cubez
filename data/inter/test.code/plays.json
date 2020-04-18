@@ -2,8 +2,8 @@
     "test1.kpg": {
         "files": {
             "index.html": {
-                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello \n    \n    \n</body>\n</html>",
-                "changeState": "",
+                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello d\n    \n    \n</body>\n</html>",
+                "changeState": "modified",
                 "editor": true,
                 "fileType": "code",
                 "fileName": "index.html",
@@ -48,6 +48,20 @@
                 "src": "git",
                 "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
                 "changeStatus": ""
+            },
+            "lecture.cast": {
+                "type": "added",
+                "fileName": "lecture.cast",
+                "locator": true,
+                "editor": false,
+                "src": true,
+                "fileType": "application",
+                "path": "lecture.cast",
+                "fileObject": {},
+                "content": "",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/lecture.cast",
+                "sha": "d8686d6ea68946a0b65ee48d58161ef8a7801a4d",
+                "changeState": "added"
             }
         },
         "hash": "",
@@ -57,7 +71,14 @@
         },
         "name": "test1.kpg",
         "caption": "test1.kpg",
-        "changesLog": {},
+        "changesLog": {
+            "edited": {
+                "index.html": 1
+            },
+            "added": {
+                "lecture.cast": 1
+            }
+        },
         "changeState": "",
         "pushed": true
     }
