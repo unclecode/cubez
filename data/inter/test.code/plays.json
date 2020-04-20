@@ -48,22 +48,6 @@
                 "src": "git",
                 "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
                 "changeStatus": ""
-            },
-            "record.webm": {
-                "type": "added",
-                "fileName": "record.webm",
-                "locator": true,
-                "editor": false,
-                "src": "git",
-                "fileType": "video",
-                "path": "record.webm",
-                "fileObject": {},
-                "content": "",
-                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/record.webm",
-                "sha": "40396f6b0be81cc1f8cef5160e73153dd68a9fef",
-                "pushed": true,
-                "changeState": "",
-                "changeStatus": ""
             }
         },
         "hash": "",
