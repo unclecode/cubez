@@ -62,7 +62,8 @@
                 "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/record.webm",
                 "sha": "c2d403645dacdb8f210235ebc0ffa3eec0e7d73a",
                 "pushed": true,
-                "changeState": "added"
+                "changeState": "",
+                "changeStatus": ""
             }
         },
         "hash": "",
@@ -72,12 +73,8 @@
         },
         "name": "test1.kpg",
         "caption": "test1.kpg",
-        "changesLog": {
-            "added": {
-                "record.webm": 1
-            }
-        },
-        "changeState": "added",
+        "changesLog": {},
+        "changeState": "",
         "pushed": true
     }
 }
