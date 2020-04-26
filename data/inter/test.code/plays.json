@@ -131,6 +131,38 @@
                 "src": "git",
                 "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
                 "changeStatus": ""
+            },
+            "sound.mp3": {
+                "type": "added",
+                "fileName": "sound.mp3",
+                "locator": true,
+                "editor": true,
+                "src": "git",
+                "fileType": "audio",
+                "path": "sound.mp3",
+                "fileObject": {},
+                "content": "sound.mp3",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test2..kpg/sound.mp3",
+                "sha": "0fee2fb1ddc9b1897afa560869da3aaee2fce47b",
+                "pushed": true,
+                "changeState": "",
+                "changeStatus": ""
+            },
+            "video.mp4": {
+                "type": "added",
+                "fileName": "video.mp4",
+                "locator": true,
+                "editor": true,
+                "src": "git",
+                "fileType": "video",
+                "path": "video.mp4",
+                "fileObject": {},
+                "content": "video.mp4",
+                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test2..kpg/video.mp4",
+                "sha": "8068d4901d34370505fa1880cb4cf9e06c9f0829",
+                "pushed": true,
+                "changeState": "",
+                "changeStatus": ""
             }
         },
         "hash": "",
