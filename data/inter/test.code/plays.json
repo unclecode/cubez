@@ -2,7 +2,7 @@
     "test1.kpg": {
         "files": {
             "index.html": {
-                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello d kqhu9  hello\n    \n    \n</body>\n</html>",
+                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello d kqhu9  <b>this is cool</b> and happy\n    \n    \n</body>\n</html>",
                 "changeState": "",
                 "editor": true,
                 "fileType": "code",
@@ -10,7 +10,7 @@
                 "path": "index.html",
                 "url": "",
                 "src": "git",
-                "sha": "d7883f3cf6031ad7940556f4eaf29cc621f5dc55",
+                "sha": "5e1868590e1efb9ad87123b0695ff8c3e05a2220",
                 "changeStatus": "",
                 "pushed": true
             },
@@ -49,22 +49,6 @@
                 "url": "",
                 "src": "git",
                 "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
-                "changeStatus": ""
-            },
-            "record.webm": {
-                "type": "added",
-                "fileName": "record.webm",
-                "locator": true,
-                "editor": false,
-                "src": "git",
-                "fileType": "video",
-                "path": "record.webm",
-                "fileObject": {},
-                "content": "",
-                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/record.webm",
-                "sha": "c2473b73aef1bdbbe524ccebce917c57695c0a7a",
-                "pushed": true,
-                "changeState": "",
                 "changeStatus": ""
             }
         },
