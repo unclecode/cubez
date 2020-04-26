@@ -2,7 +2,7 @@
     "test1.kpg": {
         "files": {
             "index.html": {
-                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello d\n    \n    \n</body>\n</html>",
+                "content": "<!DOCTYPE html>\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n    <title>Hello Title</title>\n</head>\n<body>\n    <p>\n        Hey <b><i>dummy</i></b> 4444 text.\n        Hey <b><i>dummy</i></b> 4444 text.\n    </p>\n    hello d kqhu9  hello\n    \n    \n</body>\n</html>",
                 "changeState": "",
                 "editor": true,
                 "fileType": "code",
@@ -10,8 +10,9 @@
                 "path": "index.html",
                 "url": "",
                 "src": "git",
-                "sha": "5a5661e82df9ebf1a8fde09295e5c900b3e8975d",
-                "changeStatus": ""
+                "sha": "d7883f3cf6031ad7940556f4eaf29cc621f5dc55",
+                "changeStatus": "",
+                "pushed": true
             },
             "app.css": {
                 "content": "body {}",
@@ -26,7 +27,7 @@
                 "changeStatus": ""
             },
             "app.js": {
-                "content": "//console.log('hello world')",
+                "content": "//console.log('hello world')\n// portal.LiveShare.onShareRequest({ content : {fileName:\"index.html\", line:4}, origin: \"editor\" })",
                 "changeState": "",
                 "editor": true,
                 "fileType": "code",
@@ -34,8 +35,9 @@
                 "path": "app.js",
                 "url": "",
                 "src": "git",
-                "sha": "9dc752d7e03930467d4ea4aa2feb2218b72bf05a",
-                "changeStatus": ""
+                "sha": "58cc8917e296c4c896b09656e41793dcd83a583f",
+                "changeStatus": "",
+                "pushed": true
             },
             "readme.md": {
                 "content": "This is a new playground, and make your best play here Ì†ΩÌ∏ç",
@@ -76,5 +78,22 @@
         "changesLog": {},
         "changeState": "",
         "pushed": true
+    },
+    "hello.kpg": {
+        "changeState": "added",
+        "name": "hello.kpg",
+        "files": {
+            "index.html": {
+                "content": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n\t\t<title></title>\n\t</head>\n\t<body>\n\t\t<h1>Hello Ì†æÌ¥ì</h1>\n\t</body>\n</html>",
+                "changeState": "added",
+                "editor": true,
+                "fileName": "index.html",
+                "fileType": "code",
+                "path": "index.html",
+                "src": "git",
+                "url": ""
+            }
+        },
+        "changesLog": {}
     }
 }
