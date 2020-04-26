@@ -52,38 +52,6 @@
                 "sha": "f1e3386355c457240d7775119ba3c2a1719c3d59",
                 "changeStatus": "",
                 "pushed": true
-            },
-            "music.mp3": {
-                "type": "added",
-                "fileName": "music.mp3",
-                "locator": true,
-                "editor": true,
-                "src": "git",
-                "fileType": "audio",
-                "path": "music.mp3",
-                "fileObject": {},
-                "content": "music.mp3",
-                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/music.mp3",
-                "sha": "dcf9b8b5e030683e9456a5cdf950aecb46a98cee",
-                "pushed": true,
-                "changeState": "",
-                "changeStatus": ""
-            },
-            "video.mp4": {
-                "type": "added",
-                "fileName": "video.mp4",
-                "locator": true,
-                "editor": true,
-                "src": "git",
-                "fileType": "video",
-                "path": "video.mp4",
-                "fileObject": {},
-                "content": "video.mp4",
-                "url": "https://raw.githubusercontent.com/unclecode/cubez/student/data/inter/test.code/test1.kpg/video.mp4",
-                "sha": "8068d4901d34370505fa1880cb4cf9e06c9f0829",
-                "pushed": true,
-                "changeState": "",
-                "changeStatus": ""
             }
         },
         "hash": "",
